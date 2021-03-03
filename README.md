@@ -9,5 +9,10 @@
 More info at [my about page](http://www.xiong35.cn/blog2.0/about)  
 Come and take a look at [my blog](http://www.xiong35.cn)😉
 
+<a href="http://www.xiong35.cn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiong35&theme=graywhite&locale=cn&hide_border=true&layout=compact&hide=python" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiong35)](https://github.com/xiong35)
+<a href="http://www.xiong35.cn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiong35&count_private=true&theme=graywhite&locale=cn&hide_border=true" />
+</a>
