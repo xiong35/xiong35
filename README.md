@@ -10,4 +10,4 @@ More info at [my about page](http://www.xiong35.cn/blog2.0/about)
 Come and take a look at [my blog](http://www.xiong35.cn)😉
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiong35)](https://github.com/zhaoky)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiong35)](https://github.com/xiong35)
