@@ -57,10 +57,10 @@ class Xiong35 {
 
 <p align="center">
   <a href="https://github.com/xiong35/werewolf">
-    <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xiong35&repo=werewolf&show_owner=true" />
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xiong35&repo=werewolf&show_owner=true" />
   </a>
   <a href="https://github.com/xiong35/type-challenges-solutions">
-    <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=xiong35&repo=type-challenges-solutions&show_owner=true" />
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xiong35&repo=type-challenges-solutions&show_owner=true" />
   </a>
 </p>
 
